@@ -11,5 +11,7 @@
     https://github.com/jjEnokenti/psbin.git
 #### Установить зависимости:
     python3 -m pip install --upgrade pip -r requirements.txt
+#### Создайте в корне проекта папку .env по примеру .env.example
+
 #### Далее в терминале проекта введите:
     python main.py
